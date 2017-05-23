@@ -1,7 +1,7 @@
 # The Sentinel Project
 ## Notes: 
 - You are going to need Python 3.6+ in order to run these scripts.
-- All these scripts are made by me.
+- All these scripts are made by BlackVirusScript (https://github.com/BlackVirusScript/The-Sentinel-Project).
 
 ### Modules:
 - utils.py: Simple (small and almost useless) utils to be used on scripts ...
